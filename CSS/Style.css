@@ -1,7 +1,8 @@
 body{
     background-image: url("../Assets/IMG_20250208_164657.jpg");
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .menu {
     object-fit: cover;
