@@ -1,0 +1,228 @@
+{
+    "menu": [
+        {
+            "category": "Breakfast",
+            "items": [
+                {
+                    "name": "Idli",
+                    "price": 20,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/idli.jpg"
+                },
+                {
+                    "name": "Dosa",
+                    "price": 20,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Dosa.jpg"
+                },
+                {
+                    "name": "Poori",
+                    "price": 30,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Poori.jpg"
+                },
+                {
+                    "name": "Chapatii",
+                    "price": 20,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Chapatii.jpg"
+                },
+                {
+                    "name": "Puttu",
+                    "price": 20,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Puttu.jpeg"
+                },
+                {
+                    "name": "Upma",
+                    "price": 40,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Upma.jpg"
+                },
+                {
+                    "name": "Nool Puttu / Idiyappam",
+                    "price": 20,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Breakfast/Idiyappam.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Appetizers",
+            "items": [
+                {
+                    "name": "Veg Sandwich",
+                    "price": 50,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Veg Sandwich.jpeg"
+                },
+                {
+                    "name": "Egg Sandwich",
+                    "price": 60,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Egg Sandwich.jpg"
+                },
+                {
+                    "name": "Chicken Sandwich",
+                    "price": 80,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Chicken Sandwich.jpg"
+                },
+                {
+                    "name": "Bread Omelette",
+                    "price": 40,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Bread Omelette.jpg"
+                },
+                {
+                    "name": "Veg Macaroni",
+                    "price": 50,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Veg Macaroni.jpg"
+                },
+                {
+                    "name": "Egg Macaroni",
+                    "price": 60,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Egg Macaroni.jpg"
+                },
+                {
+                    "name": "Chicken Macaroni",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Appetizers/Chicken Macaroni.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Starters",
+            "items": [
+                {
+                    "name": "Chicken 65",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chicken 65.jpg"
+                },
+                {
+                    "name": "Chicken Fry",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chicken Fry.jpg"
+                },
+                {
+                    "name": "Chilli Chicken",
+                    "price": 120,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chilli Chicken.jpg"
+                },
+                {
+                    "name": "Chicken Kondattam",
+                    "price": 140,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chicken Kondattam.jpg"
+                },
+                {
+                    "name": "Chicken Stew",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chicken Stew.jpg"
+                },
+                {
+                    "name": "Chicken Curry",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chicken Curry.jpg"
+                },
+                {
+                    "name": "Fish Fry",
+                    "price": 90,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Fish Fry.jpg"
+                },
+                {
+                    "name": "Fish Molly/ Moilee",
+                    "price": 90,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Fish Molly or Moilee.jpg"
+                },
+                {
+                    "name": "Gobi Manchurian",
+                    "price": 70,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Gobi Manchurian.jpg"
+                },
+                {
+                    "name": "Chilli Gobi",
+                    "price": 50,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Chilli Gobi.jpg"
+                },
+                {
+                    "name": "Mushroom Chilli",
+                    "price": 120,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Mushroom Chilli.jpg"
+                },
+                {
+                    "name": "Mushroom Gobi",
+                    "price": 100,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Mushroom Gobi.jpg"
+                },
+                {
+                    "name": "Veg Stew",
+                    "price": 50,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Starters/Veg Stew.jpg"
+                }
+            ]
+        },
+        {
+            "category": "Beverages",
+            "items": [
+                {
+                    "name": "Tea",
+                    "price": 10,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Tea.jpg"
+                },
+                {
+                    "name": "Black Tea",
+                    "price": 10,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Black Tea.jpg"
+                },
+                {
+                    "name": "Green Tea",
+                    "price": 10,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Green Tea.jpg"
+                },
+                {
+                    "name": "Lemon Tea",
+                    "price": 10,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Lemon Tea.jpg"
+                },
+                {
+                    "name": "Coffee",
+                    "price": 15,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Coffee.jpg"
+                },
+                {
+                    "name": "Boost",
+                    "price": 15,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Boost.jpg"
+                },
+                {
+                    "name": "Horlicks",
+                    "price": 30,
+                    "currency": "₹",
+                    "image": "Assets/MenuImg/Beverages/Horlicks.jpg"
+                }
+            ]
+        }
+    ]
+}         
